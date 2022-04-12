@@ -13,6 +13,7 @@ The dataset used in this project comes from kaggle.com. It was uploaded by Kory 
 and is licensed under the creative commons. The raw data for this dataset was compiled
 from:
 ● The Harvard-Haskins Database of Regularly-Timed Speech
+
 ● Telecommunications & Signal Processing Laboratory (TSP) Speech Database at
 McGill University, Home
 ● VoxForge Speech Corpus, Home
@@ -24,6 +25,7 @@ The raw data was then processed by acoustic analysis in R using the seewave and 
 The attributes in the dataset consist mainly of derived statistical features of each recorded voice sample. 
 These attributes include:
 ● meanfreq: mean frequency i.e the average across the entire frequency signal(in kHz)
+
 ● sd: standard deviation of frequency
 ● median: median frequency (in kHz)
 ● Q25: first quantile (in kHz)
