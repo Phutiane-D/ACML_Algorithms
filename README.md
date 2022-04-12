@@ -5,7 +5,7 @@ Investigating practical aspects of machine learning to a problem that interests 
 ## Algorithms to investigate
 
 1. Logistic regression
-2. Forgot the other 1
+2. Neural network
 
 ### Dataset
 
